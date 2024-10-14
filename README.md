@@ -13,7 +13,7 @@ Welcome to the **Deep Learning Series** repository! This repository contains cod
 
 ## Introduction
 
-Deep learning is a subset of machine learning that uses neural networks to model complex patterns in data. This series will guide you through various deep learning topics, providing hands-on coding examples and practical insights.
+Deep learning is a branch of machine learning that focuses on using neural networks to recognize complex patterns in data. Neural networks are computing systems inspired by the human brain, designed to learn from large amounts of information. In this series, we’ll explore different deep-learning topics, providing hands-on coding examples and practical insights to help you understand and apply these concepts effectively.
 
 ## Installation
 
