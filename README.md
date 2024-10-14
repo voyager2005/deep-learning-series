@@ -17,7 +17,7 @@ Deep learning is a branch of machine learning that focuses on using neural netwo
 
 ## Installation
 
-To get started, you will need to install Python on your machine. We recommend using Anaconda to manage packages and environments.
+To get started, you will need to install Python on your machine. We recommend using [PyCharm](https://www.jetbrains.com/pycharm/) to manage packages and environments.
 
 1. Clone this repository:
    ```bash
