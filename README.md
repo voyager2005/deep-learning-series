@@ -31,6 +31,12 @@ To get started, you will need to install Python on your machine. We recommend us
 
 Each article in this series will include Jupyter Notebooks and code examples. You can run the notebooks locally or in an online environment like Google Colab
 
+1. Open the Jupyter Notebook for the corresponding article:
+```bash
+jupyter notebook notebooks/
+```
+2. Follow the instructions in the notebook to implement the concepts discussed in the articles.
+
 ## Article Topics
 
 Article Topics
