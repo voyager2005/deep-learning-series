@@ -1,7 +1,5 @@
 # Libraries for Visual Demonstration of Neural Networks
 
-If you're looking for libraries that provide visual demonstrations of neural networks, their architecture, training processes, and activations, here are some excellent options along with brief descriptions and links to resources:
-
 ## 1. TensorBoard
 - **Description**: A visualization tool that comes with TensorFlow, TensorBoard helps visualize neural network architectures, monitor training metrics, and view activations.
 - **Usage**: Ideal for logging metrics during training and visualizing model performance and architecture.
